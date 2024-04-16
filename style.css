@@ -3,6 +3,7 @@ body {
    font-family: sans-serif;
    font-size: 1.125rem;
    font-weight: 300;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 img {
@@ -11,18 +12,18 @@ img {
 }
 
 .image-full {
-   max-height: 300px;
+   max-height: 500px;
    width: 100%;
-   object-fit: cover;
+   object-fit:cover;
    margin-bottom: 2em;
+   
 }
 
 h1,
 h2,
 h3 {
-   font-family: serif;
-   font-weight: 400;
-   color: #143774;
+   font-weight: 500;
+   color: #1b4897;
    margin-top: 0;
 }
 
